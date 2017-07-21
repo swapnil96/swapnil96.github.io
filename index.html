@@ -1,18 +1,25 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>swapnil</title>
+	<meta name="author" content="Swapnil Das" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link rel="stylesheet" media="screen" href="css/style.css"> 
+</head>
+<body>
+<!-- particles.js container -->
+<div id="particles-js"></div>
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<!-- scripts -->
+<script src="js/particles.js"></script> 
+<script src="js/app.js"></script> 
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	<p class="intro-text">Computer Science Sophomore at IIT Delhi. Learning something new everyday.</p>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<!-- <div id='About'>
+	<p>sdaffffffffffffffffffffffffffffffffff</p>
+</div> -->
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+</body>
+</html>
