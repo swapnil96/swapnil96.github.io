@@ -6,3 +6,6 @@ You can head to [here](http://www.cse.iitd.ac.in/~cs1150263/) for my another web
 
 # Credits
 I have used [this](https://github.com/VincentGarreau/particles.js/) repo for the particles hovering.
+
+# Other ideas
+1) [kratzert](https://github.com/kratzert/kratzert.github.io)
