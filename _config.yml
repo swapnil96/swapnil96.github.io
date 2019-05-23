@@ -34,20 +34,20 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://www.facebook.com/swapnil.das.549
+twitter: https://twitter.com/_Swapnil_Das
 # google: mygoogle
-# instagram: myinstagram
+instagram: https://www.instagram.com/swapnil._._/
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/swapnil18/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/swapnil96
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
+stackoverflow: https://stackoverflow.com/users/6181254/swapnil
+quora: https://www.quora.com/profile/Swapnil-Das-17
+reddit: https://www.reddit.com/user/Swapnil_Das
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
@@ -56,16 +56,16 @@ email: dasswapnil96@gmail.com
 authors:
     swapnildas:
         name: Swapnil Das
-        bio: A Man who travels the world eating noodles
+        bio: A Philomath! interested in CS, Space, Physics, Fine arts, Movies
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: _Swapnil_Das
+    # jamesfoster:
+    #     name: James Foster
+    #     bio: A Man who develops software with coffee
+    #     external-image: false
+    #     picture: assets/images/james.jpg
+    #     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
