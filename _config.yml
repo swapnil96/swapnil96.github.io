@@ -34,21 +34,21 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/swapnil.das.549
-twitter: https://twitter.com/_Swapnil_Das
+facebook: swapnil.das.549
+twitter: _Swapnil_Das
 # google: mygoogle
-instagram: https://www.instagram.com/swapnil._._/
+instagram: swapnil._._/
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/swapnil18/
+linkedin: swapnil18/
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/swapnil96
+github: swapnil96
 # gitlab: mygitlab
 # lastfm: mylastfm
-stackoverflow: https://stackoverflow.com/users/6181254/swapnil
-quora: https://www.quora.com/profile/Swapnil-Das-17
-reddit: https://www.reddit.com/user/Swapnil_Das
-medium: medium
+stackoverflow: 6181254/swapnil
+quora: Swapnil-Das-17
+reddit: Swapnil_Das
+medium: dasswapnil96
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: dasswapnil96@gmail.com
