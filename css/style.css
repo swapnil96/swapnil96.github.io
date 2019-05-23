@@ -69,3 +69,19 @@ canvas{
 	background-image: url('/home/swapnil/Pictures/a.jpg');
 	background-size: cover;
 }
+
+#second{
+  background-color: gray;
+}
+
+ 
+table{
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+h1 {
+  font-size: 60px;
+
+}
+
