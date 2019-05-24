@@ -16,10 +16,12 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://github.com/swapnil96/swapnil96.github.io/blob/master/assets/cv_brief_long.pdf
+resume-url: https://drive.google.com/open?id=1tEc1StbajWNsOyTdwTljOexqlS9OWu49
 
 url: https://swapnil96.github.io
 # your url: http://USERNAME.github.io
+
+base-url: https://github.com/swapnil96
 
 permalink: /:year/:month/:day/:title/
 
