@@ -5,6 +5,8 @@ bio: A Philomath! interested in CS, Space, Physics, Fine arts, Movies
 # twitter summary info
 description: A blog about technology and stuff related
 
+# avatar: https://avatars2.githubusercontent.com/u/14067280?s=460&v=4
+
 # if it's an external image, update below for true
 # better with square images
 external-image: false
@@ -13,8 +15,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: https://github.com/swapnil96/swapnil96.github.io/blob/master/assets/cv_brief_long.pdf
 
 url: https://swapnil96.github.io
 # your url: http://USERNAME.github.io
