@@ -4,43 +4,35 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, my name is Swapnil Das. I have graduated from IIT Delhi in 2019 with a 
+B.Tech degree in Computer Science & Engineering. I hail from Assam which is a
+very beautiful place amidst the craziness of India.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>During college years I tried many things ranging from Inter hostel cultural
+competitions to sports competitions to tech hackathons to just wasting time binge
+watching some TV series or movies.</p>
+
+<p>Currently, I am working full time as a analyst in Alphagrep Securities. My work
+is related to developing low latency C++ code required for High Frequency Trading.
+I have worked in NSE/BSE market data side and now I am looking into China markets.
+To dive more deeply into the work, I can categorize it as working either into the
+market data side (i.e getting market data from exchanges/broker) or working into
+the order sending side.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>C++</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>C</li>
+	<li>Java</li>
+	<li>Git</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/swapnil96/Job-Preparation">Job preparation materials</a></li>
+	<!--<li><a href="https://github.com/">Ipsum Dolor</a></li>-->
+	<!--<li><a href="https://github.com/">Dolor Lorem</a></li>-->
 </ul>
